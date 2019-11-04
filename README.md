@@ -1,2 +1,2 @@
-# FIB
-University Coursework
+# FIB - LP
+Problemes de LP
